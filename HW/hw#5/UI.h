@@ -5,7 +5,7 @@ public:
     static int insertNum;   
     static int delNum;
     void editerStartUI();
-    void shapeSelect();
+    void modeSelect();
     void insertModeUI();
     void deleteModeUI();
 };
